@@ -1,0 +1,28 @@
+.bgcontainer{
+    height:100vh;
+    background-color:orange;
+    text-align:center;
+    padding:30px;
+}
+.heading{
+    color:red;
+    font-size:50px;
+    font-weight:bold;
+}
+.para{
+    background-color:black;
+    color:white;
+    font-size:30px;
+    font-weight:bold;
+    border-radius:20px;
+}
+.button1{
+    color:green;
+    background-color:white;
+    font-size:40px;
+    height:100px;
+    width:150px;
+    border-radius:30px;
+    border-style:solid;
+    border-width:0px;
+}
